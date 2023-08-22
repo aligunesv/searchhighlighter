@@ -1,0 +1,11 @@
+{
+  "name": "@imvora/searchhighlighter",
+  "version": "1.1.0",
+  "description": "A search highlighter utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Ihsan Gunes",
+  "license": "MIT"
+}
